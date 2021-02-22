@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/allFoodsFragment"
+        android:title="Tüm Yemekler"
+        android:icon="@drawable/ic_home" />
+
+    <item android:id="@+id/allBasketFragment"
+        android:title="Sepettekiler"
+        android:icon="@drawable/ic_basket"/>
+
+    <item android:id="@+id/extraFragment"
+        android:title="Profil"
+        android:icon="@drawable/ic_extra"/>
+
+
+</menu>
